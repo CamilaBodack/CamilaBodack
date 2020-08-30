@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**CamilaBodack/CamilaBodack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <p><samp>Hello :) I'm a Camila.<br> Systems development student from Florianópolis - SC (Brazil)</samp></p>
+  <br>
+  <br>
+  <li><code> Currently learning Javascript(Express, VueJS, React, JQuery, NodeJS)</code></li>
+  <br>
+  <li><code>++ Learning and programming in Python using Django and Django Rest</code></li>
+  <br>
+  <li><code>+++ Programming Web and API tests with RobotFramework(Web and API)</code></li>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="600"/>
+</p>
