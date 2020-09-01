@@ -9,7 +9,7 @@
   <br>
   <li><code>++ Learning and programming in Python using Django and Django Rest</code></li>
   <br>
-  <li><code>+++ Programming Web and API tests with RobotFramework(Web and API)</code></li>
+  <li><code>+++ Programming Web and API tests with RobotFramework</code></li>
   <br>
   <br>
   <br>
