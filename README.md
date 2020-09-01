@@ -5,7 +5,7 @@
   <p><samp>Hello :) I'm a Camila.<br> Systems development student from Florianópolis - SC (Brazil)</samp></p>
   <br>
   <br>
-  <li><code> Currently learning Javascript(Express, VueJS, React, JQuery, NodeJS)</code></li>
+  <li><code>+ Learning web development and creating projects using Javascript, Express, VueJS, React, JQuery, CSS3, HTML5, Angular, NodeJS, Bootstrap and MySQL</code></li>
   <br>
   <li><code>++ Learning and programming in Python using Django and Django Rest</code></li>
   <br>
