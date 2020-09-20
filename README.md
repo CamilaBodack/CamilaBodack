@@ -7,7 +7,7 @@
   <br>
   <li><code>++ Learning web development and creating projects using Javascript, Express, VueJS, React, JQuery, CSS3, HTML5, Angular, NodeJS, Bootstrap and MySQL</code></li>
   <br>
-  <li><code>++ Learning and programming in Python using Django and Django Rest</code></li>
+  <li><code>++ Learning and programming in Python using Django, Django Rest and Flask</code></li>
   <br>
   <li><code>+++ Programming Web and API tests with RobotFramework</code></li>
   <br>
