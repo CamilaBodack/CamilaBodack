@@ -5,7 +5,7 @@
   <p><samp>Hello :) I'm Camila.<br>I'm a software development student who loves to learn about technology and also loves to create solutions that help to improve people's daily lives</samp></p>
   <br>
   <br>
-  <li><code>++ Currently learning web development and creating projects using Javascript, Express, React, CSS3, HTML5, Angular, NodeJS, Bootstrap and MySQL</code></li>
+  <li><code>++ Currently learning web development and creating projects using mostly HTML5, CSS3 and Javascript</code></li>
   <br>
   <li><code>++ Learning and programming in Python using Django, Django Rest</code></li>
   <br>
