@@ -7,8 +7,6 @@
   <br>
   <li><code>++ Currently learning web development and creating projects using mostly HTML5, CSS3 and Javascript</code></li>
   <br>
-  <li><code>++ Learning and programming in Python using Django, Django Rest</code></li>
-  <br>
   <li><code>+++ Programming Web and API tests with RobotFramework</code></li>
   <br>
   <br>
