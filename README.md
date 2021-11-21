@@ -6,6 +6,7 @@ Hello hello hello :)
 
 ```yaml
 My name is Camila, 
-I'm a software developer who loves to learn about technology and
-also loves to create solutions that help to improve people's daily lives
+I'm a software developer who loves to learn about technology
+and also loves to create solutions
+that help to improve people's daily lives
 ```
