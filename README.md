@@ -1,7 +1,7 @@
 <img alt="Ada lovelace image" src="https://media.giphy.com/media/uWXDXIyrkLtA17XfTI/giphy-downsized.gif"  align="right"  />
 
-```js
-Hello hello hello :)
+```css
+Hello hello hello :)     
 ```
 
 ```yaml
