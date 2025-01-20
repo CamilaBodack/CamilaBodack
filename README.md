@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy-downsized.gif" width="200" height="auto" /><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy-downsized.gif" width="200" height="auto" /><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy-downsized.gif" width="200" height="auto" />
-
 ```css
 Hi there 
 My name is Camila,
